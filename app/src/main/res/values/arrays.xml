@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selecione">Atividades culturais</string-array>;
+    <string-array name="selecione1">Atividades esportivas</string-array>;
+    <string-array name="selecione2">Atividades extra-curriculares</string-array>;
+    <string-array name="selecione3">Atividades recreativas</string-array>;
+</resources>
