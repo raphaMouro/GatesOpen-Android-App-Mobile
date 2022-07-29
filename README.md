@@ -10,16 +10,17 @@ https://www.youtube.com/watch?v=00GktTYS--w
 
 Turma: Programador de Dispositivos Móveis T4
 Professor: Oswaldo Borges Peres
-Equipe: JRFL
-Componentes: Jane Aparecida da Silveira – janeminef@gmail.com
+
+Componentes:
+Raphael Moraes de Moura - raphael.phgru@gmail.com
+Jane Aparecida da Silveira – janeminef@gmail.com
 Leide Sayuri Ogasawara - leidesayuri@gmail.com
 Fedia Joseph - f.y.joseph1998@gmail.com
-Raphael Moraes de Moura - raphael.phgru@gmail.com
 
 
-Aplicativo Gates Open - GO
+Aplicativo Gates Open - GO 
 
-
+Descrição da resolução do problema buscado pelo Projeto:
 Com a correria do dia a dia, os pais de crianças e jovens estão com tempo reduzido para buscar, pesquisar e encontrar atividades para seus filhos em horários de contraturno das aulas regulares. Pensando nessa problemática, desenvolveremos um aplicativo que una as informações de modo rápido e simples demonstrando aos pais de alunos matriculados na instituição “ABC” as listas de atividades disponíveis na instituição e possiblidades da reserva de matricula facilmente pelo app. Com isso as crianças e jovens terão oportunidades para desenvolverem seus talentos e interesses, onde muitas vezes por falta de tempo e dificuldades de comunicação não lhe são sugeridas e ofertadas. 
 
 A princípio iremos fazer um aplicativo em que seja utilizado em uma só instituição. O aluno já está matriculado na escola, sendo assim fica mais fácil a inclusão de aulas extras no horário em que não se tenha aulas regulares, no caso, o horário do contraturno.
