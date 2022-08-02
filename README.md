@@ -1,5 +1,9 @@
-                     ![Screenshot](logo.jpeg?raw=true)
+                     
 ## GatesOpen - GO - Android-App-Mobile 
+
+
+
+![Screenshot](logo.jpeg?raw=true)
 #### Projeto de app desenvolvido em Java/Android apresentado como trabalho de conclusão de curso de Dev Mobile - CEDUP/SC
 
 Linguagem e Desenvolvimento para
@@ -29,6 +33,6 @@ A intenção é fazermos um modelo experimental e que no futuro poderemos aprimo
 
 E assim, possamos dar um passo para uma futura revolução na educação, pois só conseguimos mudar uma estória de vida com educação.
 
-!![Screenshot](WireFrame%20Avalia%C3%A7%C3%A3o2.png?raw=true)
+![Screenshot](WireFrame%20Avalia%C3%A7%C3%A3o2.png?raw=true)
 
 
