@@ -6,8 +6,8 @@
 
 #### Projeto de app desenvolvido em Java/Android apresentado como trabalho de conclusão de curso de Dev Mobile - CEDUP/SC
 ![Screenshot](logo.jpeg?raw=true)
-Linguagem e Desenvolvimento para
-Dispositivos Móveis - Centro de Educação Profissionalizante - SC
+
+### Linguagem e Desenvolvimento para Dispositivos Móveis - Centro de Educação Profissionalizante - SC
 
 Avaliação 2 – link do video de apresentação:
 https://www.youtube.com/watch?v=00GktTYS--w
@@ -22,7 +22,7 @@ Jane Aparecida da Silveira – janeminef@gmail.com
 Leide Sayuri Ogasawara - leidesayuri@gmail.com
 Fedia Joseph - f.y.joseph1998@gmail.com
 
-Nota da avaliação: 10
+### Nota da avaliação: 10
 
 Aplicativo Gates Open - GO 
 
