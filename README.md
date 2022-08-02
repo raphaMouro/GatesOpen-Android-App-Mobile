@@ -1,4 +1,5 @@
-## GatesOpen - GO - Android-App-Mobile
+                     ![Screenshot](logo.jpeg?raw=true)
+## GatesOpen - GO - Android-App-Mobile 
 #### Projeto de app desenvolvido em Java/Android apresentado como trabalho de conclusão de curso de Dev Mobile - CEDUP/SC
 
 Linguagem e Desenvolvimento para
@@ -27,3 +28,7 @@ A princípio iremos fazer um aplicativo em que seja utilizado em uma só institu
 A intenção é fazermos um modelo experimental e que no futuro poderemos aprimorar e ampliar, incluindo parcerias com outros estabelecimentos como academias, escolas de dança, etc.... criando um grande banco de dados por região, com sugestões para pais e alunos, onde diversas aulas e atividades desportivas/extracurriculares podem ser encontradas. 
 
 E assim, possamos dar um passo para uma futura revolução na educação, pois só conseguimos mudar uma estória de vida com educação.
+
+!![Screenshot](WireFrame%20Avalia%C3%A7%C3%A3o2.png?raw=true)
+
+
