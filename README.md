@@ -22,6 +22,7 @@ Jane Aparecida da Silveira – janeminef@gmail.com
 Leide Sayuri Ogasawara - leidesayuri@gmail.com
 Fedia Joseph - f.y.joseph1998@gmail.com
 
+Nota da avaliação: 10
 
 Aplicativo Gates Open - GO 
 
@@ -34,5 +35,8 @@ A intenção é fazermos um modelo experimental e que no futuro poderemos aprimo
 E assim, possamos dar um passo para uma futura revolução na educação, pois só conseguimos mudar uma estória de vida com educação.
 
 ![Screenshot](WireFrame%20Avalia%C3%A7%C3%A3o2.png?raw=true)
+
+
+![Screenshot](PrintNota2aava.png)
 
 
